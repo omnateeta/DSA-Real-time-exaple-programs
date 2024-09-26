@@ -1,6 +1,6 @@
 /*Q-2:Develop a program on c for the following operation on strings.
-a.Read a main String(STR),a pattern string(PAT) and a Replacing String(Rep)
-b.Perform pattern matching operation Find and replace all occurancecess of PAt 
+a. Read a main String(STR),a pattern string(PAT) and a Replacing String(Rep)
+b. Perform pattern matching operation Find and replace all occuranceces of PAt 
   in SAT with REP if PAT exist in STR.Support the program with functions for 
   each of the above operations Don't use Built-in funtions*/
 #include<stdio.h>
