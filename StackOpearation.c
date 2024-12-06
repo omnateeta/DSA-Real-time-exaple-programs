@@ -1,4 +1,4 @@
-//This is Stack operation demo program containing push,pop,disply..
+//This is Stack operation demo program containing push,pop,display..
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
