@@ -1,4 +1,5 @@
 //This page is only for practice the dsa programs
+these programs where not fix here..
 #include<stdio.h>
 #include<conio.h>
 char str[50],pat[20],rep[20],ans[50];
