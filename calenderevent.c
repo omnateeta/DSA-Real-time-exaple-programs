@@ -1,5 +1,5 @@
 /*Q-1:Develop program in c for the following
-a.Decalre a calender as an array of 7 elemets(A dynamically created array)to reprasent
+(a)Decalre a calender as an array of 7 elemets(A dynamically created array)to reprasent
  7 days of week.Eatch elements of the array is a structure having 3 fields.The first
  field is the name of the Day(A dynamically allocated string),the second field is
  the date of the day (A integer) the thirld field is discription of the activity
