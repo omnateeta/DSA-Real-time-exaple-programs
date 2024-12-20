@@ -1,7 +1,7 @@
 
 /*Develop a program in c for the following operations on graph (G# of cities.
 (a)create a graph of N coties using Adjacency matrix.
-(b) Print all nodes reachable from a given starting node in a graph using DFS/BFS method*/
+(b) Print all nodes reachable from a given starting node in a graph using DFS/BFS method..*/
 include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
