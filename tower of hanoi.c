@@ -1,3 +1,5 @@
+//Solving tower of honoi problem with n disks..
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
