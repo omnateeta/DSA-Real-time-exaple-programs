@@ -1,3 +1,6 @@
+/*Develop menu driven program in c for the folowing operations on binary search tree(BST) of Integer.(a)Create a BST of Integers :6,9,5,2,8,15,24,14,7,8,5,2
+	(b)Traverse the BST inorder,preorder,postorder
+	(c)Search the BST for a given element (key)&report the oppropriate message.(d)Exit.
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
