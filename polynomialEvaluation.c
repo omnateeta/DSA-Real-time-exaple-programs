@@ -1,3 +1,6 @@
+/*Develop a program in c for te following operation singly circular list with header nodes. (A)Represent and evaluate a polynomial p(x,y,z)
+=6xy-4yz5+3x3yx+2xy5z-2xyz3. (B)Find the sum of two poly1(x,y,z) poly2(x,y,z) and and store the result in polysym(x,y,z) support the program with
+appropriate functions for each of the above operations.
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
