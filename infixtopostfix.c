@@ -1,4 +1,6 @@
-#include <stdio.h>
+/*Develop a program in c for converting an infix expression to postfix expression program should support for both parentesied and free 
+parentesized expressions with the operator +,-,*,/,% (reminder),^(power) and alphanumeric oprands.*/
+#include <stdio.h>*
 #include <stdlib.h>
 
 void evaluate();
