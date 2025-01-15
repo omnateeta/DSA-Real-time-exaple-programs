@@ -1,4 +1,4 @@
-//This page is only for practice the dsa programs
+//This page is only for practice the dsa programs its not has specific demonstartation
 
 these programs where not fix here.
 #include<stdio.h>
