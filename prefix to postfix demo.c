@@ -93,4 +93,4 @@ int main() {
 
     return 0;
 }
-
+//You can test the program with a prefix expression like *+AB-CD and it should output the corresponding postfix expression: AB+CD-*.
