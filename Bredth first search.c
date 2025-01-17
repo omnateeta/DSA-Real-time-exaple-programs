@@ -59,3 +59,18 @@ int main() {
     return 0;
 }
 
+/*
+out put to check 
+Enter the number of nodes: 6
+Enter the number of edges: 7
+Enter the edges (u v):
+0 1
+0 2
+1 3
+1 4
+2 5
+3 5
+4 5
+Enter the starting node: 0*/
+
+
