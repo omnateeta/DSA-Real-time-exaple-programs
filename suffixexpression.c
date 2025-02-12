@@ -1,4 +1,4 @@
-//Devolp a program in c for the following stac application a evaluation of suffix expression with single digit operands & oprators:+,-,*,/,%,^.
+//Devolp a program in c for the following stac application a evaluation of suffix expression with single digit operands & oprators:+,-,*,/,%,^ etc
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
