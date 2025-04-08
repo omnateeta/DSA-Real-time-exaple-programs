@@ -1,4 +1,4 @@
-//Demo for Priority queue in dsa concept
+//Demo for Priority queue in DSA concept.
 #include <stdio.h>
 #define MAX 100
 
