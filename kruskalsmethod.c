@@ -74,5 +74,5 @@ Enter the cost matrix
 The minimum spanning tree cost is  6
 
 --------------------------------
-Process exited after 35.79 seconds with return value 38 */
+Process exited after 35.79 seconds with return value 38 */ 
 
